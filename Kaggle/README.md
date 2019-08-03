@@ -63,6 +63,13 @@
 * Some interesting solutions from the web ([write-up](https://www.kaggle.com/c/quora-question-pairs/discussion/30260#latest-221245))
 * 24 Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34534#latest-420654))([code](https://github.com/aerdem4/kaggle-quora-dup))
 
+## Coreference Resolution
+#### Gendered Pronoun Resolution
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/gendered-pronoun-resolution/discussion/90392#latest-521800))([code](https://github.com/sattree/gap))
+* 3rd Place Solution ([Explanation](https://www.kaggle.com/c/gendered-pronoun-resolution/discussion/90424#latest-522089))
+* Place Solution ([Explanation](https://www.kaggle.com/c/gendered-pronoun-resolution/discussion/90484#latest-522332))([code](https://github.com/zake7749/Fill-the-GAP))
+* Place Solution ([Explanation](https://www.kaggle.com/c/gendered-pronoun-resolution/discussion/90334#latest-521489))([code](https://github.com/boliu61/gendered-pronoun-resolution))
+* Top solutions ([write-up](https://www.kaggle.com/c/gendered-pronoun-resolution/discussion/90339))
 
 #### Toxic Comment Classification Challenge
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52557#latest-533843))
