@@ -30,6 +30,14 @@
 * 10th Place Solution  ([Explanation & code](https://www.kaggle.com/chizhu2018/final-submit-two-10th-solution-private-0-442))
 * Place Solution  ([Explanation & code](https://www.kaggle.com/corochann/13-th-place-solution-ensemble-of-5-models))
 
+#### Santander Product Recommendation
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26835#latest-549998))
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26824#latest-379386))([code](https://github.com/ttvand/Santander-Product-Recommendation))([Blog](https://ttvand.github.io/Second-place-in-the-Santander-product-Recommendation-Kaggle-competition/))
+* 3rd Place Solution - R language ([Explanation & code](https://www.kaggle.com/c/santander-product-recommendation/discussion/26899#latest-385293))
+* 4th Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26845#latest-549966))
+* 5th Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26841#latest-152148))([code](https://github.com/jturkewitz/SideProjects/tree/master/Kaggle/Santander_Prod))
+* 8th Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26838#latest-153042))([code](https://github.com/yaxinus/santander-product-recommendation-8th-place))
+* 11th Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26823#latest-180009))([code](https://github.com/rohanrao91/Kaggle_SantanderProductRecommendation))
 
 ## Text Classification 
 
