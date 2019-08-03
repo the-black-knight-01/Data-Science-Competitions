@@ -26,6 +26,15 @@
 * 10th Place Solution  ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88997#latest-517584))
 * 29th Place Solution ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89034#latest-548982))([code](https://github.com/btrotta/kaggle-santander-2019))
 
+#### PetFinder.my Adoption Prediction
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/102099#latest-589409))([code](https://www.kaggle.com/naka2ka/stack-480-speedup-groupkfold-with-no-dict))
+* 3rd Place Solution  ([Explanation & code](https://www.kaggle.com/wuyhbb/final-small))
+* 6th Place Solution  ([Explanation & code](https://www.kaggle.com/bminixhofer/6th-place-solution-code))
+* 8th Place Solution ([Explanation & code](https://www.kaggle.com/adityaecdrid/8th-place-solution-code))
+* 10th Place Solution  ([Explanation & code](https://www.kaggle.com/chizhu2018/final-submit-two-10th-solution-private-0-442))
+* Place Solution  ([Explanation & code](https://www.kaggle.com/corochann/13-th-place-solution-ensemble-of-5-models))
+
+
 ## Semantic Segmentation & Instance Segmentation 
 
 #### iMaterialist (Fashion) 2019 at FGVC6:  
