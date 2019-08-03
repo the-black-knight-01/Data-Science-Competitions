@@ -10,11 +10,13 @@
 
 #### Santander Customer Transaction Prediction
 
-* Place Solution ([Explanation]())([code]())
-* Place Solution  ([Explanation]())([code]())
-* Place Solution  ([Explanation]())([code]())
-
-
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89003#latest-590312))
+* 2nd Place Solution  ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88939#latest-534927))([code](https://github.com/KazukiOnodera/Santander-Customer-Transaction-Prediction))
+* 5th Place Solution  ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88897#latest-517607))
+* 7th Place Solution ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89023#latest-518634))
+* 9th Place Solution  ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89302#latest-516440))
+* 10th Place Solution  ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/88997#latest-517584))
+* 29th Place Solution ([Explanation](https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/89034#latest-548982))([code](https://github.com/btrotta/kaggle-santander-2019))
 
 ## Semantic Segmentation & Instance Segmentation 
 
