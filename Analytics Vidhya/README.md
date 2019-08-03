@@ -1,2 +1,8 @@
-# Data-Science-Competitions
-Goal of this repo is to provide solutions of all Data Science Competitions.
+
+
+####
+* Place Solution ([Explanation]())([code]())
+* Place Solution ([Explanation]())([code]())
+* Place Solution ([Explanation]())([code]())
+* Place Solution ([Explanation]())([code]())
+
