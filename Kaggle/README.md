@@ -1,9 +1,18 @@
 ## Text Classification 
 
-####
+#### Jigsaw Unintended Bias in Toxicity Classification
 * 2nd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100661#latest-590437))
+* 3rd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/97471#latest-582610))
 * 4th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/101927#latest-590658))([code](https://github.com/iezepov/combat-wombat-bias-in-toxicity))([Kaggle Kernel](https://www.kaggle.com/iezepov/wombat-inference-kernel))
 * 8th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100961#latest-586393))([code](https://www.kaggle.com/haqishen/jigsaw-predict))
+
+## Classification 
+
+#### Santander Customer Transaction Prediction
+
+* Place Solution ([Explanation]())([code]())
+* Place Solution  ([Explanation]())([code]())
+* Place Solution  ([Explanation]())([code]())
 
 
 
