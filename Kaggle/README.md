@@ -51,9 +51,9 @@
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34355#latest-572705))
 * 2nd Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34310#latest-450693))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34288#latest-339489))
-* Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34697#latest-349346))
+* 7th Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34697#latest-349346))
 * Some interesting solutions from the web ([write-up](https://www.kaggle.com/c/quora-question-pairs/discussion/30260#latest-221245))
-* Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34534#latest-420654))([code](https://github.com/aerdem4/kaggle-quora-dup))
+* 24 Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34534#latest-420654))([code](https://github.com/aerdem4/kaggle-quora-dup))
 
 
 #### Toxic Comment Classification Challenge
