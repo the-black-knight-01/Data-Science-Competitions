@@ -47,6 +47,13 @@
 * 4th Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81632#latest-533550))([code](https://www.kaggle.com/kfujikawa/4th-place))
 * 7th Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80561#latest-582439))
 
+#### Quora Question Pairs
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34355#latest-572705))
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34310#latest-450693))
+* 3rd Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34288#latest-339489))
+* Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34697#latest-349346))
+* Some interesting solutions from the web ([write-up](https://www.kaggle.com/c/quora-question-pairs/discussion/30260#latest-221245))
+
 #### Toxic Comment Classification Challenge
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52557#latest-533843))
 * 2nd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52612#latest-413355))
