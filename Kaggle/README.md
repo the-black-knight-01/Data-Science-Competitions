@@ -1,3 +1,12 @@
+## Text Classification 
+
+####
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100661#latest-590437))
+* 4th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/101927#latest-590658))([code](https://github.com/iezepov/combat-wombat-bias-in-toxicity))([Kaggle Kernel](https://www.kaggle.com/iezepov/wombat-inference-kernel))
+* 8th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100961#latest-586393))([code](https://www.kaggle.com/haqishen/jigsaw-predict))
+
+
+
 ## Semantic Segmentation & Instance Segmentation 
 
 #### iMaterialist (Fashion) 2019 at FGVC6:  
@@ -27,3 +36,10 @@
 * 4th Place Solution  ([Explanation](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118#latest-527734))([code](https://github.com/pdima/kaggle_2018_data_science_bowl_solution))
 
 
+
+
+
+####
+* Place Solution ([Explanation]())([code]())
+* Place Solution  ([Explanation]())([code]())
+* Place Solution  ([Explanation]())([code]())
