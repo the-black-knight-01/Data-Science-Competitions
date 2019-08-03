@@ -129,13 +129,3 @@
 * 2nd Place Solution ([Explanation & code](https://github.com/jacobkie/2018DSB))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/data-science-bowl-2018/discussion/56393#latest-540344))([code](https://github.com/Lopezurrutia/DSB_2018))
 * 4th Place Solution  ([Explanation](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118#latest-527734))([code](https://github.com/pdima/kaggle_2018_data_science_bowl_solution))
-
-
-
-
-####
-* Place Solution ([Explanation]())([code]())
-* Place Solution ([Explanation]())([code]())
-* Place Solution ([Explanation]())([code]())
-* Place Solution ([Explanation]())([code]())
-
