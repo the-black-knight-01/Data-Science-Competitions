@@ -6,6 +6,14 @@
 * 4th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/101927#latest-590658))([code](https://github.com/iezepov/combat-wombat-bias-in-toxicity))([Kaggle Kernel](https://www.kaggle.com/iezepov/wombat-inference-kernel))
 * 8th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100961#latest-586393))([code](https://www.kaggle.com/haqishen/jigsaw-predict))
 
+#### Quora Insincere Questions Classification
+
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568#latest-570793))
+* 2nd Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81137#latest-552221))
+* 3rd Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80495#latest-548808))([code](https://www.kaggle.com/wowfattie/3rd-place))
+* 4th Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81632#latest-533550))([code](https://www.kaggle.com/kfujikawa/4th-place))
+* 7th Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80561#latest-582439))
+
 ## Classification 
 
 #### Santander Customer Transaction Prediction
