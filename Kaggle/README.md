@@ -1,18 +1,14 @@
-## Text Classification 
+## Regression
 
-#### Jigsaw Unintended Bias in Toxicity Classification
-* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100661#latest-590437))
-* 3rd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/97471#latest-582610))
-* 4th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/101927#latest-590658))([code](https://github.com/iezepov/combat-wombat-bias-in-toxicity))([Kaggle Kernel](https://www.kaggle.com/iezepov/wombat-inference-kernel))
-* 8th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100961#latest-586393))([code](https://www.kaggle.com/haqishen/jigsaw-predict))
+#### Elo Merchant Category Recommendation
 
-#### Quora Insincere Questions Classification
+* 5th Place Solution ([Explanation](https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82314#latest-525737))
+* 7th Place Solution  ([Explanation](https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82055#latest-483943))
+* 10th Place Solution  ([Explanation](https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82093#latest-529125))
+* 11th Place Solution  ([Explanation](https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82127#latest-502682))
+* 19th Place Solution  ([Explanation](https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82178#latest-480628))
+* 21th Place Solution  ([Explanation](https://www.kaggle.com/c/elo-merchant-category-recommendation/discussion/82235#latest-481035))([code](https://github.com/bestpredicts/ELO))
 
-* 1st Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568#latest-570793))
-* 2nd Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81137#latest-552221))
-* 3rd Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80495#latest-548808))([code](https://www.kaggle.com/wowfattie/3rd-place))
-* 4th Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81632#latest-533550))([code](https://www.kaggle.com/kfujikawa/4th-place))
-* 7th Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80561#latest-582439))
 
 ## Classification 
 
@@ -33,6 +29,23 @@
 * 8th Place Solution ([Explanation & code](https://www.kaggle.com/adityaecdrid/8th-place-solution-code))
 * 10th Place Solution  ([Explanation & code](https://www.kaggle.com/chizhu2018/final-submit-two-10th-solution-private-0-442))
 * Place Solution  ([Explanation & code](https://www.kaggle.com/corochann/13-th-place-solution-ensemble-of-5-models))
+
+
+## Text Classification 
+
+#### Jigsaw Unintended Bias in Toxicity Classification
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100661#latest-590437))
+* 3rd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/97471#latest-582610))
+* 4th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/101927#latest-590658))([code](https://github.com/iezepov/combat-wombat-bias-in-toxicity))([Kaggle Kernel](https://www.kaggle.com/iezepov/wombat-inference-kernel))
+* 8th Place Solution  ([Explanation](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/100961#latest-586393))([code](https://www.kaggle.com/haqishen/jigsaw-predict))
+
+#### Quora Insincere Questions Classification
+
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568#latest-570793))
+* 2nd Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81137#latest-552221))
+* 3rd Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80495#latest-548808))([code](https://www.kaggle.com/wowfattie/3rd-place))
+* 4th Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81632#latest-533550))([code](https://www.kaggle.com/kfujikawa/4th-place))
+* 7th Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80561#latest-582439))
 
 
 ## Semantic Segmentation & Instance Segmentation 
@@ -67,7 +80,3 @@
 
 
 
-####
-* Place Solution ([Explanation]())([code]())
-* Place Solution  ([Explanation]())([code]())
-* Place Solution  ([Explanation]())([code]())
