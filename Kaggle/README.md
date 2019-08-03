@@ -47,6 +47,12 @@
 * 4th Place Solution ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/81632#latest-533550))([code](https://www.kaggle.com/kfujikawa/4th-place))
 * 7th Place Solution  ([Explanation](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80561#latest-582439))
 
+#### Toxic Comment Classification Challenge
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52557#latest-533843))
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52612#latest-413355))
+* 3rd Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52762#latest-434841))
+* 27 Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52719))([code](https://github.com/zake7749/DeepToxic))
+* Collection of winning solutions ([write-up](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/72597#latest-437366))
 
 ## Semantic Segmentation & Instance Segmentation 
 
@@ -79,4 +85,9 @@
 
 
 
+####
+* Place Solution ([Explanation]())([code]())
+* Place Solution ([Explanation]())([code]())
+* Place Solution ([Explanation]())([code]())
+* Place Solution ([Explanation]())([code]())
 
