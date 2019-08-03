@@ -53,6 +53,8 @@
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34288#latest-339489))
 * Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34697#latest-349346))
 * Some interesting solutions from the web ([write-up](https://www.kaggle.com/c/quora-question-pairs/discussion/30260#latest-221245))
+* Place Solution ([Explanation](https://www.kaggle.com/c/quora-question-pairs/discussion/34534#latest-420654))([code](https://github.com/aerdem4/kaggle-quora-dup))
+
 
 #### Toxic Comment Classification Challenge
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52557#latest-533843))
