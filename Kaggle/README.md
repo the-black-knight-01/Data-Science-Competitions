@@ -70,6 +70,16 @@
 * 27 Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52719))([code](https://github.com/zake7749/DeepToxic))
 * Collection of winning solutions ([write-up](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/72597#latest-437366))
 
+# Time Series
+
+#### Web Traffic Time Series Forecasting
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795))([code](https://github.com/Arturus/kaggle-web-traffic))
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/39395))([code](https://github.com/jfpuget/Kaggle/tree/master/WebTrafficPrediction))
+* 3rd Place Solution ([Explanation](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/39876))
+* 6th Place Solution ([Explanation](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/39370))([code](https://github.com/sjvasquez/web-traffic-forecasting))
+* Tips from the winning solutions ([write-up](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43535))
+* General Approach ([write-up](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/39367))
+
 ## Coreference Resolution
 #### Gendered Pronoun Resolution
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/gendered-pronoun-resolution/discussion/90392#latest-521800))([code](https://github.com/sattree/gap))
