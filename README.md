@@ -133,7 +133,7 @@
 * 4th Place Solution  ([Explanation](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118#latest-527734))([code](https://github.com/pdima/kaggle_2018_data_science_bowl_solution))
 
 
-# 2. DataHack by Analytical Vidya
+# 2. DataHack by Analytics Vidya
 
 #### Innoplexus Online Hiring Hackathon: Sentiment Analysis
 * 14th Place Solution ([code](https://github.com/pawangeek/Ccmps/tree/master/innoplexus))
@@ -155,3 +155,21 @@
 * 4th Place Solution ([code](https://drive.google.com/file/d/1T2dGWdyCy7gCm5bPbKeZzpmBhKOdlLdx/view?usp=drive_open))
 * 12th Place Solution ([code](https://datahack-prod.s3.amazonaws.com/submissions/capillary-machine-learning-hackathon/443_624878_cf_code_eJkEZMW.py))
 * 13th Place Solution ([code](https://datahack-prod.s3.amazonaws.com/submissions/capillary-machine-learning-hackathon/443_622728_cf_current_best_y1yhRmZ.py))
+
+# 3. Machine Hack
+
+#### Predicting The Costs Of Used Cars - Hackathon By Imarticus Learning
+* 5th Place Solution ([code](https://github.com/chetanambi/Predicting-The-Costs-Of-Used-Cars-Hackathon-By-Imarticus-Learning))
+* 11th Place Solution ([Explanation & code](https://www.kaggle.com/rajatranjan/fork-of-mh-predict-cost-of-used-cars-hackathon))
+
+#### Predict A Doctor's Consultation Fee Hackathon
+* 3rd Place Solution ([code](https://github.com/chetanambi/Predict-A-Doctors-Consultation-Fee-Hackathon))
+* 8th Place Solution ([Explanation & code](https://www.kaggle.com/rajatranjan/predict-consultation-fee-doc-machinehack-re))
+
+#### Predict The Flight Ticket Price Hackathon
+* 3rd Place Solution  ([code](https://github.com/chetanambi/Predict-The-Flight-Ticket-Price-Hackathon))
+* 11th Place Solution ([Explanation & code](https://www.kaggle.com/rajatranjan/predict-flight-tickets-machine-hack1))
+
+#### Predicting Restaurant Food Cost Hackathon
+* 5th Place Solution ([code](https://www.kaggle.com/rajatranjan/machinehack-predict-food-prices))
+* 7th Place Solution ([code](https://github.com/chetanambi/Predicting-Restaurant-Food-Cost-Hackathon))
