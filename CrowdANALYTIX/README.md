@@ -7,3 +7,5 @@
 #### Identifying Superheroes from product images
 * 34th Place Solution ([code](https://github.com/skyprince999/Identify-Superheroes))
 * Another Solution: [code](https://github.com/kanashov/Identifying-Superheroes-from-Product-Images)
+* Another Solution: [code](https://github.com/lwkuant/Side_Project_Identifying_Superheroes)
+
