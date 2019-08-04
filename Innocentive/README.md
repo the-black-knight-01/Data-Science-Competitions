@@ -1,2 +1,5 @@
-# Data-Science-Competitions
-Goal of this repo is to provide solutions of all Data Science Competitions.
+# Innocentive Competitions
+
+I have search whole web but didn't get a single solutions.
+
+if you know please send a pull reguest.
