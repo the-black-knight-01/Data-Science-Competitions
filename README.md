@@ -1,3 +1,5 @@
+Please send pull request if you want to add more competition solutions
+
 # 1. Kaggle
 
 ## Regression
