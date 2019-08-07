@@ -72,6 +72,12 @@
 * 27 Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52719))([code](https://github.com/zake7749/DeepToxic))
 * Collection of winning solutions ([write-up](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/72597#latest-437366))
 
+## Document Classification & Data extraction
+#### Tradeshift Text Classification
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/tradeshift-text-classification/discussion/10901#latest-62000))([code](https://github.com/daxiongshu/tradeshift-text-classification))
+* 71th Place Solution ([code](https://github.com/mandelbrot/kaggle-tradeshift-text-classification))
+* Another Solution ([code](https://github.com/jdlevitt/Tradeshift_kaggle))
+
 ## Time series analysis 
 
 #### Two Sigma: Using News to Predict Stock Movements
