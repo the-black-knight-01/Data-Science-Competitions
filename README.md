@@ -75,6 +75,7 @@
 ## Document Classification & Data extraction
 #### Tradeshift Text Classification
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/tradeshift-text-classification/discussion/10901#latest-62000))([code](https://github.com/daxiongshu/tradeshift-text-classification))
+* 28th Place Solution ([Explanation & code](https://www.kaggle.com/c/tradeshift-text-classification/discussion/10629))
 * 71th Place Solution ([code](https://github.com/mandelbrot/kaggle-tradeshift-text-classification))
 * Another Solution ([code](https://github.com/jdlevitt/Tradeshift_kaggle))
 
