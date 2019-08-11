@@ -99,6 +99,13 @@ Please send pull request if you want to add more competition solutions
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/18024#latest-581685))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/17974#latest-477628))([code](https://github.com/entron/entity-embedding-rossmann))
 
+## Recommendation System:
+#### Santander Product Recommendation
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26835#latest-549998
+))
+* 2nd Place Solution ([Explanation](https://ttvand.github.io/Second-place-in-the-Santander-product-Recommendation-Kaggle-competition/))([code](https://github.com/ttvand/Santander-Product-Recommendation))
+* 3rd Place Solution ([Explanation & code](https://www.kaggle.com/c/santander-product-recommendation/discussion/26899#latest-385293))
+* 4th Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26845#latest-549966))
 
 ## Coreference Resolution
 
