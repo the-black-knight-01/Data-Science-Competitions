@@ -85,6 +85,7 @@ Please send pull request if you want to add more competition solutions
 
 #### Two Sigma: Using News to Predict Stock Movements
 * 49th Place Solution ([Explanation & code](https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only))
+* 175th Place Solution([Explanation & code](https://www.kaggle.com/suchith0312/multiple-time-based-validation-try-xgb/data?scriptVersionId=9111086))
 * Post-competition thoughts([write-up](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914#latest-593302))
 
 #### Web Traffic Time Series Forecasting
