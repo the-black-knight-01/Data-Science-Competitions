@@ -229,3 +229,8 @@ Please send pull request if you want to add more competition solutions
 * Another Solution: [code](https://github.com/kanashov/Identifying-Superheroes-from-Product-Images)
 * Another Solution: [code](https://github.com/lwkuant/Side_Project_Identifying_Superheroes)
 
+# 6. Hacker Earth
+#### Amazon ML Hiring Challenge
+* Score: 73.4% Solution ([Explanation & code](https://github.com/anu0012/Amazon-ML-Hiring-Challenge))
+* Score 66%: Solution ([Explanation & code](https://github.com/devNaresh/AmazonHiringChallange))
+
