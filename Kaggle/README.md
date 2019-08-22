@@ -1,3 +1,5 @@
+# Kaggle Winning Solutions Github
+
 ## Regression
 
 #### Elo Merchant Category Recommendation
@@ -71,6 +73,11 @@
 * Collection of winning solutions ([write-up](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/72597#latest-437366))
 
 ## Time series analysis 
+
+#### Two Sigma: Using News to Predict Stock Movements
+* 1st Place Solution ([Explanation & code](https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only))
+* Post-competition thoughts([write-up](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914#latest-593302))
+
 
 #### Web Traffic Time Series Forecasting
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795))([code](https://github.com/Arturus/kaggle-web-traffic))

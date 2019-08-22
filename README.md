@@ -1,3 +1,5 @@
+Please send pull request if you want to add more competition solutions
+
 # 1. Kaggle
 
 ## Regression
@@ -72,7 +74,19 @@
 * 27 Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52719))([code](https://github.com/zake7749/DeepToxic))
 * Collection of winning solutions ([write-up](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/72597#latest-437366))
 
+## Document Classification & Data extraction
+#### Tradeshift Text Classification
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/tradeshift-text-classification/discussion/10901#latest-62000))([code](https://github.com/daxiongshu/tradeshift-text-classification))
+* 28th Place Solution ([Explanation & code](https://www.kaggle.com/c/tradeshift-text-classification/discussion/10629))
+* 71th Place Solution ([code](https://github.com/mandelbrot/kaggle-tradeshift-text-classification))
+* Another Solution ([code](https://github.com/jdlevitt/Tradeshift_kaggle))
+
 ## Time series analysis 
+
+#### Two Sigma: Using News to Predict Stock Movements
+* 49th Place Solution ([Explanation & code](https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only))
+* 175th Place Solution([Explanation & code](https://www.kaggle.com/suchith0312/multiple-time-based-validation-try-xgb/data?scriptVersionId=9111086))
+* Post-competition thoughts([write-up](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914#latest-593302))
 
 #### Web Traffic Time Series Forecasting
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795))([code](https://github.com/Arturus/kaggle-web-traffic))
@@ -86,6 +100,13 @@
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/18024#latest-581685))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/17974#latest-477628))([code](https://github.com/entron/entity-embedding-rossmann))
 
+## Recommendation System:
+#### Santander Product Recommendation
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26835#latest-549998
+))
+* 2nd Place Solution ([Explanation](https://ttvand.github.io/Second-place-in-the-Santander-product-Recommendation-Kaggle-competition/))([code](https://github.com/ttvand/Santander-Product-Recommendation))
+* 3rd Place Solution ([Explanation & code](https://www.kaggle.com/c/santander-product-recommendation/discussion/26899#latest-385293))
+* 4th Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26845#latest-549966))
 
 ## Coreference Resolution
 
