@@ -1,6 +1,6 @@
 Please send pull request if you want to add more competition solutions.
 
-[Discusssion Thread:](https://gist.github.com/interviewBubble/b1654c18b20b944876e513d953d437fd#file-data-science-competitions-discussion)
+For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/interviewBubble/b1654c18b20b944876e513d953d437fd#file-data-science-competitions-discussion)
 # 1. Kaggle
 
 ## Regression
