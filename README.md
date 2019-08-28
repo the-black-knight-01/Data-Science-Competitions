@@ -86,7 +86,9 @@ For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/inter
 
 #### Two Sigma: Using News to Predict Stock Movements
 * 49th Place Solution ([Explanation & code](https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only))
-* 175th Place Solution([Explanation & code](https://www.kaggle.com/suchith0312/multiple-time-based-validation-try-xgb/data?scriptVersionId=9111086))
+* 91th Place Solution ([Explanation & code](https://www.kaggle.com/alluxia/lb-0-6326-tuned-xgboost-baseline))
+* 113th Place Solution ([Explanation & code](https://www.kaggle.com/charleslandau/iterative-approach))
+* 119th Place Solution([Explanation & code](https://www.kaggle.com/yatzhash/news-features-without-headline-subjects))
 * Post-competition thoughts([write-up](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914#latest-593302))
 
 #### Web Traffic Time Series Forecasting
