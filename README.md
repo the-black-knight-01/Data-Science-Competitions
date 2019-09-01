@@ -157,6 +157,15 @@ For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/inter
 * 4th Place Solution  ([Explanation](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118#latest-527734))([code](https://github.com/pdima/kaggle_2018_data_science_bowl_solution))
 
 
+## GAN
+#### Generative Dog Images
+* P1st lace Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/106324))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/104211))([code](https://www.kaggle.com/yukia18/sub-rals-ac-biggan-with-minibatchstddev))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/106514))([code](https://www.kaggle.com/lisali/sagan-submit-2?scriptVersionId=18714508))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/104281))([code](https://github.com/bestfitting/kaggle/tree/master/gandogs))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/104287))([code](https://www.kaggle.com/dvorobiev/doggies-biggan-sub-data-aug-3))
+* [Gold Medal Solutions](https://www.kaggle.com/c/generative-dog-images/discussion/106305)
+
 # 2. DataHack by Analytics Vidya
 
 #### Innoplexus Online Hiring Hackathon: Sentiment Analysis
