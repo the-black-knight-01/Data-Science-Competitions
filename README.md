@@ -129,15 +129,14 @@ For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/inter
 * Gold Medal Solutions ([write-up](https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94361))
 
 ## Image Classification 
-# Cdiscount’s Image Classification Challenge
+#### Cdiscount’s Image Classification Challenge
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45863))
 * 5th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45733))([Video Tutorial with Eng subtitles](https://www.youtube.com/watch?v=Mw2vdYv4ups&feature=youtu.be))
 * 7th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45737#latest-327941))
 * 8th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45850))
 * 9th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45721#latest-327936))
 
-
-## Right Whale Recognition
+#### Right Whale Recognition
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/18409#latest-170541))([code](https://www.dropbox.com/s/rohrc1btslxwxzr/deepsense-whales.zip?dl=1))
 * 2nd Place Solution ([Explanation](https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/18325#latest-104535))([code](https://github.com/felixlaumon/kaggle-right-whale))
 
