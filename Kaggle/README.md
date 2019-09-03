@@ -72,12 +72,21 @@
 * 27 Place Solution ([Explanation](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52719))([code](https://github.com/zake7749/DeepToxic))
 * Collection of winning solutions ([write-up](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/72597#latest-437366))
 
+## Document Classification & Data extraction
+#### Tradeshift Text Classification
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/tradeshift-text-classification/discussion/10901#latest-62000))([code](https://github.com/daxiongshu/tradeshift-text-classification))
+* 28th Place Solution ([Explanation & code](https://www.kaggle.com/c/tradeshift-text-classification/discussion/10629))
+* 71th Place Solution ([code](https://github.com/mandelbrot/kaggle-tradeshift-text-classification))
+* Another Solution ([code](https://github.com/jdlevitt/Tradeshift_kaggle))
+
 ## Time series analysis 
 
 #### Two Sigma: Using News to Predict Stock Movements
-* 1st Place Solution ([Explanation & code](https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only))
+* 49th Place Solution ([Explanation & code](https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only))
+* 91th Place Solution ([Explanation & code](https://www.kaggle.com/alluxia/lb-0-6326-tuned-xgboost-baseline))
+* 113th Place Solution ([Explanation & code](https://www.kaggle.com/charleslandau/iterative-approach))
+* 119th Place Solution([Explanation & code](https://www.kaggle.com/yatzhash/news-features-without-headline-subjects))
 * Post-competition thoughts([write-up](https://www.kaggle.com/c/two-sigma-financial-news/discussion/102914#latest-593302))
-
 
 #### Web Traffic Time Series Forecasting
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/web-traffic-time-series-forecasting/discussion/43795))([code](https://github.com/Arturus/kaggle-web-traffic))
@@ -91,6 +100,13 @@
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/18024#latest-581685))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/17974#latest-477628))([code](https://github.com/entron/entity-embedding-rossmann))
 
+## Recommendation System:
+#### Santander Product Recommendation
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26835#latest-549998
+))
+* 2nd Place Solution ([Explanation](https://ttvand.github.io/Second-place-in-the-Santander-product-Recommendation-Kaggle-competition/))([code](https://github.com/ttvand/Santander-Product-Recommendation))
+* 3rd Place Solution ([Explanation & code](https://www.kaggle.com/c/santander-product-recommendation/discussion/26899#latest-385293))
+* 4th Place Solution ([Explanation](https://www.kaggle.com/c/santander-product-recommendation/discussion/26845#latest-549966))
 
 ## Coreference Resolution
 
@@ -109,7 +125,20 @@
 * 5th Place Solution ([Explanation](https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94484))
 * Gold Medal Solutions ([write-up](https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94361))
 
-## Semantic Segmentation & Instance Segmentation 
+## Image Classification 
+#### Cdiscount’s Image Classification Challenge
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45863))
+* 5th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45733))([Video Tutorial with Eng subtitles](https://www.youtube.com/watch?v=Mw2vdYv4ups&feature=youtu.be))
+* 7th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45737#latest-327941))
+* 8th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45850))
+* 9th Place Solution ([Explanation](https://www.kaggle.com/c/cdiscount-image-classification-challenge/discussion/45721#latest-327936))
+
+#### Right Whale Recognition
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/18409#latest-170541))([code](https://www.dropbox.com/s/rohrc1btslxwxzr/deepsense-whales.zip?dl=1))
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/18325#latest-104535))([code](https://github.com/felixlaumon/kaggle-right-whale))
+
+
+## Semantic Segmentation & Instance Segmentation 1st
 
 #### iMaterialist (Fashion) 2019 at FGVC6:  
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/discussion/95247#latest-567841))([code](https://github.com/amirassov/kaggle-imaterialist))
@@ -136,3 +165,13 @@
 * 2nd Place Solution ([Explanation & code](https://github.com/jacobkie/2018DSB))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/data-science-bowl-2018/discussion/56393#latest-540344))([code](https://github.com/Lopezurrutia/DSB_2018))
 * 4th Place Solution  ([Explanation](https://www.kaggle.com/c/data-science-bowl-2018/discussion/55118#latest-527734))([code](https://github.com/pdima/kaggle_2018_data_science_bowl_solution))
+
+
+## GAN
+#### Generative Dog Images
+* P1st lace Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/106324))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/104211))([code](https://www.kaggle.com/yukia18/sub-rals-ac-biggan-with-minibatchstddev))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/106514))([code](https://www.kaggle.com/lisali/sagan-submit-2?scriptVersionId=18714508))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/104281))([code](https://github.com/bestfitting/kaggle/tree/master/gandogs))
+* Place Solution ([Explanation](https://www.kaggle.com/c/generative-dog-images/discussion/104287))([code](https://www.kaggle.com/dvorobiev/doggies-biggan-sub-data-aug-3))
+* [Gold Medal Solutions](https://www.kaggle.com/c/generative-dog-images/discussion/106305)
