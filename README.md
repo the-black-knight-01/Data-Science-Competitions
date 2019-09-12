@@ -141,7 +141,16 @@ For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/inter
 * 2nd Place Solution ([Explanation](https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/18325#latest-104535))([code](https://github.com/felixlaumon/kaggle-right-whale))
 
 
-## Semantic Segmentation & Instance Segmentation 1st
+## Semantic Segmentation & Instance Segmentation
+
+#### APTOS 2019 Blindness Detection
+* 1st Place Solution ([Explanation](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108065))
+* 2nd Place Solution ([Explanation](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107926))
+* 4th Place Solution ([Explanation](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107926#latest-624709))
+* 5th Place Solution ([Explanation](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107960))
+* 7h Place Solution ([Explanation](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/107987))([code](https://github.com/BloodAxe/Kaggle-2019-Blindness-Detection))
+* 8th Place Solution ([Explanation](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108030))([code](https://github.com/DrHB/APTOS-2019-GOLD-MEDAL-SOLUTION))
+* [🏅Gold Medal Solutions list 🏅](https://www.kaggle.com/c/aptos2019-blindness-detection/discussion/108307#latest-623987)
 
 #### iMaterialist (Fashion) 2019 at FGVC6:  
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/discussion/95247#latest-567841))([code](https://github.com/amirassov/kaggle-imaterialist))
