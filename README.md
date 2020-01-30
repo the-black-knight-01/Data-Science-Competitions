@@ -102,6 +102,12 @@ For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/inter
 #### Rossmann Store Sales
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/18024#latest-581685))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/17974#latest-477628))([code](https://github.com/entron/entity-embedding-rossmann))
+## QnA System:
+#### TensorFlow 2.0 Question Answering
+* [1st place solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127551)
+* [2nd place solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127333)
+* [3rd place solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127339)
+* [4th place Solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127371)
 
 ## Recommendation System:
 #### Santander Product Recommendation
